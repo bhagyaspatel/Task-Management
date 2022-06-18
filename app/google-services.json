@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486214077043",
+    "project_id": "task-management-5bf99",
+    "storage_bucket": "task-management-5bf99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486214077043:android:3ca06cd75b901331f37806",
+        "android_client_info": {
+          "package_name": "ai.ineuron.taskmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486214077043-1a0v8u7l1jfvj0qf2foo6rfp5mml5tue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBITMWnHNxAVYTHSN_aGCw0zKFdCUwuj-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486214077043-1a0v8u7l1jfvj0qf2foo6rfp5mml5tue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
